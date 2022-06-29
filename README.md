@@ -4,8 +4,8 @@
 主要是查詢讀墨READMOO網站上的輕小說內容
 
 ## 加入好友方式
-- -QR code
-- ![image](https://user-images.githubusercontent.com/53147433/176468400-b7c4239c-1cbc-4f69-bc25-339912f4808b.png)
+- QR code
+![image](https://user-images.githubusercontent.com/53147433/176470653-6aa6a4f9-0937-4602-9619-eb6cf20a5bcb.png)
 
 ## 指令
 !new 查詢最新的10本書
