@@ -6,7 +6,7 @@ https://readmoo.com/category/249
 
 ## 加入好友方式
 - ID  
-  1657157286
+  @845owhxc
 - QR code  
 ![image](https://user-images.githubusercontent.com/53147433/176470653-6aa6a4f9-0937-4602-9619-eb6cf20a5bcb.png)
 
