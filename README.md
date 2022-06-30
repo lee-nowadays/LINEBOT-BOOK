@@ -20,5 +20,5 @@ https://readmoo.com/category/249
   ![image](https://user-images.githubusercontent.com/53147433/176473911-f52d3b02-294a-4764-a63f-ed19ba445ec1.png)  
 當查詢的書沒有的時候會跳出不是查詢的書本請多加注意  
 
-## 作業連結
-- [儲存庫](https://github.com/lee-nowadays/LINEBOT-BOOK)
+## 注意事項  
+  資料有時讀取不到，請稍後再嘗試
